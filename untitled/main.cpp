@@ -14,7 +14,7 @@ int main(int argc, char *argv[])
         if(cap.read(mat))
             imshow("Opencv Open Video",mat);
         waitKey(15);
-///////thay doi lan 2
+///////thay doi lan 3
     }
 
     return a.exec();
